@@ -1,0 +1,160 @@
+
+    h1 {
+        background-color: #888181;
+        text-align: center;
+        padding: 20px;
+        margin: 0;
+        color: white;
+        text-shadow: rgba(255, 255, 255, 0.234) 2px 2px;
+        font-family: "Athiti";
+    }
+
+    img.a {border-radius: 20px ;
+        border: hidden;
+        float: right;
+        margin-right: 120px;
+        margin-top: 30px
+    }
+
+    pre.a{border: hidden;
+        padding: 0;
+        margin-top: 30px;
+        font-size: 18px;
+        font-family: "Athiti";
+        text-indent: 120px;
+        letter-spacing: 1px;
+        line-height: 1px;
+    }
+
+    pre.aa{border: hidden;
+        padding: 0;
+        margin-top: 30px;
+        font-size: 18px;
+        font-family: "Athiti";
+        text-indent: 200px;
+        letter-spacing: 1px;
+        line-height: 1px;
+    }
+
+    a.aa{border: hidden;
+        padding: 0;
+        margin-top: 30px;
+        font-size: 18px;
+        font-family: "Athiti";
+        text-indent: 200px;
+        letter-spacing: 1px;
+        line-height: 1px;
+    }
+    pre.aaa{border: hidden;
+        padding: 0;
+        margin: 60px;
+        font-size: 18px;
+        font-family: "Athiti";
+        text-indent: 200px;
+        letter-spacing: 1px;
+        line-height: 1px;
+    }
+
+    pre.name{border: hidden;
+        padding: 0;
+        margin-top: 30px;
+        font-size: 30px;
+        font-family: "Playfair Display";
+        text-indent: 120px;
+        letter-spacing: 2px;
+        line-height: 3px;
+    }
+
+    pre.nname{border: hidden;
+        padding: 0;
+        padding-top: 20px;
+        font-size: 30px;
+        font-family: "Playfair Display";
+        text-indent: 120px;
+        letter-spacing: 2px;
+        line-height: 3px;
+    }
+
+    pre.nnname{border: hidden;
+        padding: 0;
+        margin-top: 80px;
+        font-size: 30px;
+        font-family: "Playfair Display";
+        text-indent: 120px;
+        letter-spacing: 2px;
+        line-height: 3px;
+    }
+
+    div.d{
+        border: none;
+        height: 218px;
+        width: 100%;
+        margin-top: 120px;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 0;
+        background: #c2afa4a7;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #a49b9b;
+    }
+      
+    li {
+        float: left;
+    }
+      
+    li a {
+        font-family: "Athiti";
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 16px 20px;
+        text-decoration: none;
+    }
+      
+    /* Change the link color to #111 (black) on hover */
+    li a:hover {
+        background-color: #111;
+    }
+
+
+    body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      
+      .hero-image {
+        background: url(satit.jpg) no-repeat center; 
+        background-size: cover;
+        height: 500px;
+        position: relative;
+      }
+      
+      .hero-text {
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-family: "Athiti";
+      }
+
+      .heero-image {
+        background: url(https://lh3.googleusercontent.com/p/AF1QipNXoRZS0g_U01EPZ8MehDkY5yBjw2rc74QedeHh=s1360-w1360-h1020) no-repeat center; 
+        background-size: cover;
+        height: 500px;
+        position: relative;
+      }
+
+      .heeero-image {
+        background: url(https://www.slashgear.com/img/gallery/12-important-things-to-consider-before-buying-a-gaming-pc/l-intro-1654286079.jpg) no-repeat center; 
+        background-size: cover;
+        height: 500px;
+        position: relative;
+      }
